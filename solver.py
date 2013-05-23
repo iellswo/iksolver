@@ -5,8 +5,8 @@ from pygame.locals import *
 DISP_WIDTH = 800
 DISP_HEIGHT = 600
 BGCOLOR = (0, 0, 132)
-PLANK_NUM = 5
-PLANK_LEN = [100, 100, 100, 75, 75]
+PLANK_NUM = 3
+PLANK_LEN = [100, 100, 100]
 
 
 class IKSolver():
